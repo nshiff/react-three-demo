@@ -11,7 +11,7 @@
     "three": "latest"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "BROWSER=none react-scripts start",
     "build": "react-scripts build"
   },
   "browserslist": [
