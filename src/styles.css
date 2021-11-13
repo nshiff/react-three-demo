@@ -29,16 +29,15 @@ button:hover {
     box-sizing: border-box;
 }
 .page-container {
-    border: 3px dashed red;
     display: flex;
     height: 100vh;
 }
 .visualization-panel {
-    border: 3px dashed lime;
+    border: 2px dashed lime;
     flex-grow: 3;
 }
 .config-panel {
-    border: 3px dashed blue;
+    border: 2px dashed blue;
     flex-grow: 1;
 }
 
